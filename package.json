@@ -1,6 +1,6 @@
 {
   "name": "mini2react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compile mini-program components into react components",
   "keywords": [
     "mini-program",
