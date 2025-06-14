@@ -1,11 +1,14 @@
 {
   "compilerOptions": {
-    "target": "ES6",
-    "module": "ESNext",
-    "outDir": "dist",
-    "rootDir": "src",
+    "target": "ESNext",
     "strict": true,
-    "esModuleInterop": true
+    "moduleResolution": "node",
+    "module": "CommonJS",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
   },
-  "include": ["src"]
+  "include": ["."],
+  "exclude": ["node_modules", "bench", "__test__"]
 }

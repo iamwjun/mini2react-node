@@ -1,0 +1,34 @@
+{
+  "name": "mini2react-android-arm-eabi",
+  "version": "1.0.2",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "mini2react.android-arm-eabi.node",
+  "files": [
+    "mini2react.android-arm-eabi.node"
+  ],
+  "description": "Compile mini-program components into react components",
+  "keywords": [
+    "mini-program",
+    "components",
+    "react",
+    "compiler"
+  ],
+  "homepage": "https://github.com/iamwjun/mini2react-node#readme",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "repository": "https://github.com/iamwjun/mini2react-node.git",
+  "bugs": {
+    "url": "https://github.com/iamwjun/mini2react-node/issues"
+  }
+}
