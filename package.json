@@ -1,5 +1,5 @@
 {
-  "name": "mini2react",
+  "name": "@mira/mini2react",
   "version": "1.0.3",
   "description": "Compile mini-program components into react components",
   "main": "index.js",

@@ -1,3 +1,3 @@
-# `mini2react-android-arm-eabi`
+# `@mira/mini2react-android-arm-eabi`
 
-This is the **armv7-linux-androideabi** binary for `mini2react`
+This is the **armv7-linux-androideabi** binary for `@mira/mini2react`

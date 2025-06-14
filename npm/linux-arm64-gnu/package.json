@@ -1,5 +1,5 @@
 {
-  "name": "mini2react-linux-arm64-gnu",
+  "name": "@mira/mini2react-linux-arm64-gnu",
   "version": "1.0.3",
   "os": [
     "linux"

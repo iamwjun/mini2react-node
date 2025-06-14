@@ -1,5 +1,5 @@
 {
-  "name": "mini2react-linux-arm-gnueabihf",
+  "name": "@mira/mini2react-linux-arm-gnueabihf",
   "version": "1.0.3",
   "os": [
     "linux"
