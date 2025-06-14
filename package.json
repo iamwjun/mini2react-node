@@ -1,6 +1,6 @@
 {
   "name": "@mira/mini2react",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Compile mini-program components into react components",
   "main": "index.js",
   "homepage": "https://github.com/iamwjun/mini2react-node#readme",
