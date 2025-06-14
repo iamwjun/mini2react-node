@@ -1,3 +1,3 @@
-# `@mira/mini2react-linux-arm64-gnu`
+# `@miniblocks/mini2react-linux-arm64-gnu`
 
-This is the **aarch64-unknown-linux-gnu** binary for `@mira/mini2react`
+This is the **aarch64-unknown-linux-gnu** binary for `@miniblocks/mini2react`

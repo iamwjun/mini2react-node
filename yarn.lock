@@ -73,6 +73,25 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@miniblocks/mini2react@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@miniblocks/mini2react@workspace:."
+  dependencies:
+    "@napi-rs/cli": "npm:^2.18.4"
+    "@oxc-node/core": "npm:^0.0.28"
+    "@taplo/cli": "npm:^0.7.0"
+    ava: "npm:^6.2.0"
+    chalk: "npm:^5.4.1"
+    husky: "npm:^9.1.7"
+    lint-staged: "npm:^16.0.0"
+    npm-run-all2: "npm:^8.0.0"
+    oxlint: "npm:^1.0.0"
+    prettier: "npm:^3.5.3"
+    tinybench: "npm:^4.0.1"
+    typescript: "npm:^5.8.2"
+  languageName: unknown
+  linkType: soft
+
 "@napi-rs/cli@npm:^2.18.4":
   version: 2.18.4
   resolution: "@napi-rs/cli@npm:2.18.4"
@@ -1429,25 +1448,6 @@ __metadata:
   checksum: 10c0/f3d9464dd1816ecf6bdf2aec6ba32c0728022039d992f178237d8e289b48764fee4131319e72eedd4f7f094e22ded0af836c3187a7edc4595d28dd74368fd81d
   languageName: node
   linkType: hard
-
-"mini2react@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "mini2react@workspace:."
-  dependencies:
-    "@napi-rs/cli": "npm:^2.18.4"
-    "@oxc-node/core": "npm:^0.0.28"
-    "@taplo/cli": "npm:^0.7.0"
-    ava: "npm:^6.2.0"
-    chalk: "npm:^5.4.1"
-    husky: "npm:^9.1.7"
-    lint-staged: "npm:^16.0.0"
-    npm-run-all2: "npm:^8.0.0"
-    oxlint: "npm:^1.0.0"
-    prettier: "npm:^3.5.3"
-    tinybench: "npm:^4.0.1"
-    typescript: "npm:^5.8.2"
-  languageName: unknown
-  linkType: soft
 
 "minimatch@npm:^3.1.1":
   version: 3.1.2

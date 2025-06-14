@@ -1,6 +1,6 @@
 {
-  "name": "@mira/mini2react-android-arm-eabi",
-  "version": "1.0.4",
+  "name": "@miniblocks/mini2react-android-arm-eabi",
+  "version": "1.0.5",
   "os": [
     "android"
   ],

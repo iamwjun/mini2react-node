@@ -1,3 +1,3 @@
-# `@mira/mini2react-win32-x64-msvc`
+# `@miniblocks/mini2react-win32-x64-msvc`
 
-This is the **x86_64-pc-windows-msvc** binary for `@mira/mini2react`
+This is the **x86_64-pc-windows-msvc** binary for `@miniblocks/mini2react`

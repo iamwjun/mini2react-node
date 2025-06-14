@@ -1,3 +1,3 @@
-# `@mira/mini2react-linux-x64-musl`
+# `@miniblocks/mini2react-linux-x64-musl`
 
-This is the **x86_64-unknown-linux-musl** binary for `@mira/mini2react`
+This is the **x86_64-unknown-linux-musl** binary for `@miniblocks/mini2react`
