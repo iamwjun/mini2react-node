@@ -1,6 +1,6 @@
 {
   "name": "@miniblocks/mini2react",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Compile mini-program components into react components",
   "main": "index.js",
   "homepage": "https://github.com/iamwjun/mini2react-node#readme",
